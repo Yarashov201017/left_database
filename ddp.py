@@ -4,6 +4,6 @@ def cl_connect():
         host="localhost",
         database="at_ishniklar",
         user="postgres",
-        password="ulugbek"
+        password="password"
     )
     return ish
